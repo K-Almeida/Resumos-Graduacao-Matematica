@@ -1,2 +1,2 @@
 # Resumos-Graduacao-Matematica
- Resumos feitos por mim durante a graduação de Matemática
+ Resumos feitos durante a graduação de Matemática
